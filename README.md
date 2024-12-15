@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gobindabauri008@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gobindabauri/](https://www.linkedin.com/in/gobindabauri/)
+- 📄 Know about my experiences [Gobinda Bauri](https://gobindabauri.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
